@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "66416f7171354fe8eb6647db"
+  },
+  "nombre": "Barcelona",
+  "ciudad": "Barcelona",
+  "pais": "España",
+  "jugadores": [
+    "Lionel Messi",
+    "Xavi Hernandez",
+    "Andres Iniesta"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66416f7171354fe8eb6647dc"
+  },
+  "nombre": "Real Madrid",
+  "ciudad": "Madrid",
+  "pais": "España",
+  "jugadores": [
+    "Karim Benzema",
+    "Sergio Ramos",
+    "Luka Modric"
+  ]
+},
+{
+  "_id": {
+    "$oid": "664170d8b29bf51685c80c94"
+  },
+  "nombre": "Manchester United",
+  "ciudad": "Manchester",
+  "pais": "Inglaterra",
+  "jugadores": [
+    "Cristiano Ronaldo",
+    "Paul Pogba",
+    "Marcus Rashford"
+  ]
+},
+{
+  "_id": {
+    "$oid": "664170d8b29bf51685c80c95"
+  },
+  "nombre": "Paris Saint-Germain",
+  "ciudad": "París",
+  "pais": "Francia",
+  "jugadores": [
+    "Neymar Jr",
+    "Kylian Mbappe",
+    "Marco Verratti"
+  ]
+},
+{
+  "_id": {
+    "$oid": "664170d8b29bf51685c80c96"
+  },
+  "nombre": "Bayern Munich",
+  "ciudad": "Munich",
+  "pais": "Alemania",
+  "jugadores": [
+    "Robert Lewandowski",
+    "Thomas Muller",
+    "Joshua Kimmich"
+  ]
+}]

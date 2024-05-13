@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "66416f7171354fe8eb6647d9"
+  },
+  "nombre": "Lionel Messi",
+  "edad": 34,
+  "posicion": "Delantero",
+  "equipo": "Barcelona"
+},
+{
+  "_id": {
+    "$oid": "6641708fb29bf51685c80c89"
+  },
+  "nombre": "Cristiano Ronaldo",
+  "edad": 37,
+  "posicion": "Delantero",
+  "equipo": "Manchester United"
+},
+{
+  "_id": {
+    "$oid": "6641708fb29bf51685c80c8a"
+  },
+  "nombre": "Neymar Jr",
+  "edad": 30,
+  "posicion": "Delantero",
+  "equipo": "Paris Saint-Germain"
+},
+{
+  "_id": {
+    "$oid": "6641708fb29bf51685c80c8b"
+  },
+  "nombre": "Luka Modric",
+  "edad": 36,
+  "posicion": "Centrocampista",
+  "equipo": "Real Madrid"
+},
+{
+  "_id": {
+    "$oid": "6641708fb29bf51685c80c8c"
+  },
+  "nombre": "Robert Lewandowski",
+  "edad": 33,
+  "posicion": "Delantero",
+  "equipo": "Bayern Munich"
+}]

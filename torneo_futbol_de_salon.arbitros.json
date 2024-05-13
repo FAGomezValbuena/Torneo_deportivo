@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "6641716fb29bf51685c80ca4"
+  },
+  "nombre": "Howard Webb",
+  "pais": "Inglaterra"
+},
+{
+  "_id": {
+    "$oid": "6641716fb29bf51685c80ca5"
+  },
+  "nombre": "Pierluigi Collina",
+  "pais": "Italia"
+},
+{
+  "_id": {
+    "$oid": "6641716fb29bf51685c80ca6"
+  },
+  "nombre": "Felix Brych",
+  "pais": "Alemania"
+},
+{
+  "_id": {
+    "$oid": "6641716fb29bf51685c80ca7"
+  },
+  "nombre": "Nestor Pitana",
+  "pais": "Argentina"
+},
+{
+  "_id": {
+    "$oid": "6641716fb29bf51685c80ca8"
+  },
+  "nombre": "Mark Geiger",
+  "pais": "Estados Unidos"
+}]

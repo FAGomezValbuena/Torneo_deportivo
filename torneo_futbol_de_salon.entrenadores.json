@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "66416f7171354fe8eb6647dd"
+  },
+  "nombre": "Pep Guardiola",
+  "equipo": "Manchester City"
+},
+{
+  "_id": {
+    "$oid": "66416f7171354fe8eb6647de"
+  },
+  "nombre": "Jurgen Klopp",
+  "equipo": "Liverpool"
+},
+{
+  "_id": {
+    "$oid": "66417143b29bf51685c80c9c"
+  },
+  "nombre": "Diego Simeone",
+  "equipo": "Atletico Madrid"
+},
+{
+  "_id": {
+    "$oid": "66417143b29bf51685c80c9d"
+  },
+  "nombre": "Zinedine Zidane",
+  "equipo": "Real Madrid"
+},
+{
+  "_id": {
+    "$oid": "66417143b29bf51685c80c9e"
+  },
+  "nombre": "Carlo Ancelotti",
+  "equipo": "Everton"
+}]

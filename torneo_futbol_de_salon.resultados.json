@@ -1,0 +1,47 @@
+[{
+  "_id": {
+    "$oid": "664174bbb29bf51685c80cad"
+  },
+  "encuentro_id": "1",
+  "equipo_local": "Barcelona",
+  "goles_local": 3,
+  "equipo_visitante": "Real Madrid",
+  "goles_visitante": 2
+},
+{
+  "_id": {
+    "$oid": "664174bbb29bf51685c80cae"
+  },
+  "encuentro_id": "2",
+  "equipo_local": "Manchester United",
+  "goles_local": 2,
+  "equipo_visitante": "Paris Saint-Germain",
+  "goles_visitante": 1
+},
+{
+  "_id": {
+    "$oid": "664174bbb29bf51685c80caf"
+  },
+  "encuentro_id": "3",
+  "equipo_local": "Bayern Munich",
+  "goles_local": 4,
+  "equipo_visitante": "Real Madrid",
+  "goles_visitante": 3
+},
+{
+  "_id": {
+    "$oid": "664174bbb29bf51685c80cb0"
+  },
+  "encuentro_id": "4",
+  "equipo_local": "Liverpool",
+  "goles_local": 2,
+  "equipo_visitante": "Manchester City",
+  "goles_visitante": 2
+},
+{
+  "_id": {
+    "$oid": "664174bbb29bf51685c80cb1"
+  },
+  "encuentro_id": "5",
+  "equipo_local": "Barcelona"
+}]

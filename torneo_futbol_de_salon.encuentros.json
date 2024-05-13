@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "6641765db29bf51685c80cbe"
+  },
+  "equipo_local": "Barcelona",
+  "equipo_visitante": "Real Madrid",
+  "fecha": "2024-05-01",
+  "resultado": "3-2",
+  "arbitro": "Howard Webb"
+},
+{
+  "_id": {
+    "$oid": "6641765db29bf51685c80cbf"
+  },
+  "equipo_local": "Manchester United",
+  "equipo_visitante": "Paris Saint-Germain",
+  "fecha": "2024-05-02",
+  "resultado": "2-1",
+  "arbitro": "Pierluigi Collina"
+},
+{
+  "_id": {
+    "$oid": "6641765db29bf51685c80cc0"
+  },
+  "equipo_local": "Bayern Munich",
+  "equipo_visitante": "Real Madrid",
+  "fecha": "2024-05-03",
+  "resultado": "4-3",
+  "arbitro": "Felix Brych"
+},
+{
+  "_id": {
+    "$oid": "6641765db29bf51685c80cc1"
+  },
+  "equipo_local": "Liverpool",
+  "equipo_visitante": "Manchester City",
+  "fecha": "2024-05-04",
+  "resultado": "2-2",
+  "arbitro": "Nestor Pitana"
+},
+{
+  "_id": {
+    "$oid": "6641765db29bf51685c80cc2"
+  },
+  "equipo_local": "Paris Saint-Germain",
+  "equipo_visitante": "Bayern Munich",
+  "fecha": "2024-05-05",
+  "resultado": "1-2",
+  "arbitro": "Mark Geiger"
+}]

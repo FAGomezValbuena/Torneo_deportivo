@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "664175dbb29bf51685c80cb4"
+  },
+  "equipo": "Barcelona",
+  "partidos_jugados": 3,
+  "victorias": 2,
+  "empates": 1,
+  "derrotas": 0,
+  "goles_a_favor": 8,
+  "goles_en_contra": 4,
+  "puntos": 7
+},
+{
+  "_id": {
+    "$oid": "664175dbb29bf51685c80cb5"
+  },
+  "equipo": "Real Madrid",
+  "partidos_jugados": 3,
+  "victorias": 1,
+  "empates": 1,
+  "derrotas": 1,
+  "goles_a_favor": 6,
+  "goles_en_contra": 6,
+  "puntos": 4
+},
+{
+  "_id": {
+    "$oid": "664175dbb29bf51685c80cb6"
+  },
+  "equipo": "Manchester United",
+  "partidos_jugados": 2,
+  "victorias": 1,
+  "empates": 0,
+  "derrotas": 1,
+  "goles_a_favor": 3,
+  "goles_en_contra": 3,
+  "puntos": 3
+},
+{
+  "_id": {
+    "$oid": "664175dbb29bf51685c80cb7"
+  },
+  "equipo": "Bayern Munich",
+  "partidos_jugados": 1,
+  "victorias": 1,
+  "empates": 0,
+  "derrotas": 0,
+  "goles_a_favor": 4,
+  "goles_en_contra": 3,
+  "puntos": 3
+},
+{
+  "_id": {
+    "$oid": "664175dbb29bf51685c80cb8"
+  },
+  "equipo": "Paris Saint-Germain",
+  "partidos_jugados": 1,
+  "victorias": 0,
+  "empates": 0,
+  "derrotas": 1,
+  "goles_a_favor": 1,
+  "goles_en_contra": 2,
+  "puntos": 0
+}]
